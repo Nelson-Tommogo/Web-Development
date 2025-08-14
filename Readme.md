@@ -21,3 +21,10 @@ github pull request
 write codes(style.css)(6mins)
 import these style on index.html file
 (inline and Internal)
+
+git init
+git add .
+git commit -m "Your Message"
+git remote add origin ...............................................................
+git branch -m main or your branch name(replace with main)
+git push origin main
