@@ -29,6 +29,16 @@ git remote add origin ..........................................................
 git branch -m main or your branch name(replace with main)
 git push origin main
 
+git config --global user.name "Nelson-Tommogo"
+git config --global user.email "nelsontommogo9@gmail.com"
+git push origin main
+
+
+//
+git pull origin ......
+git fetch ...........
+
+
 blackbox
 copilot
 html css
