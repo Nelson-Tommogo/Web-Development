@@ -39,6 +39,14 @@ git pull origin ......
 git fetch ...........
 
 
+
+Api request
+fetch data from api
+signup
+login 
+
+
+
 blackbox
 copilot
 html css
