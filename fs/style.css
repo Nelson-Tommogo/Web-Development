@@ -3,11 +3,42 @@ body{
     margin: 0;
     padding:0;
     background-color: #979191;
-    color:blueviolet
+    color:rgb(4, 4, 4)
 }
     header{
         background-color: bisque;
-        color: black;
+        color: rgb(5, 5, 183);
         padding: 15px 0;
         text-align: center;
     }
+
+    
+main{
+    padding: 10px;
+    text-align: center;
+}
+
+button{
+    background-color: #4c8f5f;
+    colour: blue;
+    border: none;
+    padding: 15px 30px;
+    text-align: center;
+    cursor: pointer;
+    font-size: large;
+}
+
+button:hover {
+background-color: aqua;
+}
+
+footer{
+    background-color: #4c8f5f;
+    color: black;
+    clear: both;
+    padding: 15px 0;
+    text-align: left;
+    width: auto;
+    position: fixed;
+    bottom: 0;
+}
