@@ -51,3 +51,30 @@ blackbox
 copilot
 html css
 javascript
+
+
+MongoDB
+how it is used 
+why mongoDB
+
+Postgress
+MongoDB
+MysQL
+FIrebase
+SQLite
+
+Hosting Backend
+Render
+
+Hosting Frontend
+Vercel
+Github Pages
+
+MongoDB
+
+Signup for Mongo
+setup mongoDB
+Cluster, Create a 
+keep your password
+
+a simple server  that implements signup
