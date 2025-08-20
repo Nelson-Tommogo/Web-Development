@@ -66,7 +66,7 @@ SQLite
 Hosting Backend
 Render
 
-Hosting Frontend
+Hosting
 Vercel
 Github Pages
 
