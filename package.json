@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "block-chain-server",
   "version": "1.0.0",
   "main": "server.js",
@@ -12,5 +13,9 @@
     "express": "^5.1.0",
     "mongodb": "^6.18.0",
     "mongoose": "^8.17.2"
+=======
+  "dependencies": {
+    "mongodb": "^6.18.0"
+>>>>>>> commit all
   }
 }
