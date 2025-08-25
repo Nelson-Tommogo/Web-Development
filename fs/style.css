@@ -4,6 +4,7 @@ body{
     padding:0;
     background-color: #fdfdfd;
     color:rgb(233, 9, 240)
+      main
 }
     header{
         background-color: bisque;
@@ -13,7 +14,7 @@ body{
     }
 
     
-main{
+{
     padding: 10px;
     text-align: center;
 }
