@@ -140,3 +140,19 @@ apis
 Application programming interface
 
 install postman-testing apis
+
+
+Backend languages
+Java
+huskel
+javascript-nodejs
+python
+
+databases
+MongoDB
+MySQL
+Postgress
+Firebase
+SQLlite
+
+Nodejs & MongoDB with Express

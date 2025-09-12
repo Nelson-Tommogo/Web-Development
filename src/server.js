@@ -1,8 +1,7 @@
-// server.js
 import http from 'http';
 import { MongoClient } from 'mongodb';
 
-// MongoDB connection URL from .env or default
+// MongoDB connection URL fromc .env or default
 const MONGO_URL = process.env.MONGO_URL || "mongodb+srv://2004172:evd68rqhIujleLIo@web.6dk0btn.mongodb.net/?retryWrites=true&w=majority&appName=web";
 
 let client;
