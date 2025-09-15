@@ -156,3 +156,16 @@ Firebase
 SQLlite
 
 Nodejs & MongoDB with Express
+
+API- application Programming Interface
+
+
+API
+
+GET
+POST
+PUT
+PATCH
+DELETE
+
+

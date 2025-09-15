@@ -90,7 +90,7 @@ const server = http.createServer(async (req, res) => {
   }
 });
 
-const PORT = process.env.PORT || 5500;
+const PORT = process.env.PORT || 55500;
 
 // Start server
 server.listen(PORT, () => {
